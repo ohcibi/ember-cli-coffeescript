@@ -1,5 +1,5 @@
 # Takes two parameters: container and app
-initialize = () ->
+initialize = (### container, application ###) ->
   # app.register 'route', 'foo', 'service:foo'
 
 <%= classifiedModuleName %>Initializer =
